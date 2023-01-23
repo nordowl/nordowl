@@ -22,7 +22,7 @@ I passionately build awesome and modern web experiences
 ---
 
 ### Oh, you might find interesting, that...
-- 👍 I'm always glad to be of help (that might be the most useful fact of this list)
+- 👍 I'm always glad to be of help (that might be the most useful fact on this list)
 - 👾 I know all Pokemon by name (my memory amazes me sometimes)
 - 🦉 Owls and wolves are the best animals (objectively, that is _of course_ 😉)
 
