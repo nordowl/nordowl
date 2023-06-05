@@ -1,4 +1,5 @@
 # Hi, the name's Jonas! 👋
+![](https://komarev.com/ghpvc/?username=nordowl&color=8742f5&style=flat-square)
 ### Music lover. PC enthusiast. Night owl.
 I passionately build awesome and modern web experiences
 
