@@ -2,4 +2,4 @@
 
 Built [Slotpicker](https://slotpicker.app) and [Slot Engine](https://slot-engine.dev).  
 Made with passion 🦉  
-I try to use as little AI as possible for my projects. No slop here.
+I use as little AI as possible for my projects. No slop here.
