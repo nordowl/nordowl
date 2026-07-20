@@ -1,5 +1,5 @@
-**Fullstack Dev, UI Designer, night owl**
+**Fullstack Dev, UI Designer, night owl.**
 
-Built and launched **Slotpicker**, the most popular app for<br>
-exploring new slot games by getting one picked at random.<br>
-https://www.slotpicker.app/
+Built [Slotpicker](https://slotpicker.app) and [Slot Engine](https://slot-engine.dev).  
+Made with passion 🦉  
+I try to use as little AI as possible for my projects. No slop here.
